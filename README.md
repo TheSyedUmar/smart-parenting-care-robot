@@ -85,3 +85,15 @@ Finally, the motors enable the robot to move and perform different actions. Thro
 ## Author
 
 Project developed as an academic project.
+
+## Code
+
+The project code is available in the `code` folder.
+
+### Main File
+- `code/main.py` – controls robot movement, door operations, and basic voice output using Raspberry Pi GPIO.
+
+## Notes
+- This project is designed for Raspberry Pi hardware.
+- Required Python libraries include `RPi.GPIO`, `pygame`, `gTTS`, `mutagen`, and `telepot`.
+- GPIO pin numbers may need to be changed based on the actual hardware connection.
