@@ -36,6 +36,9 @@ Finally, the motors enable the robot to move and perform different actions. Thro
 ### Working Demo
 ![Working Demo](images/working-demo.jpg)
 
+### Project Setup
+![Project Setup](images/project-setup.jpg)
+
 ## Features
 
 * Child activity monitoring
