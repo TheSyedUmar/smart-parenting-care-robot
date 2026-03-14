@@ -8,6 +8,19 @@ The Smart Parenting Care Robot is an AI-powered child monitoring and assistance 
 
 ![Smart Parenting Care Robot](images/block-diagram.png)
 
+### Block Diagram Explanation
+
+The Raspberry Pi acts as the main controller of the Smart Parenting Care Robot. It runs the program that controls the robot’s operations and processes commands received from the user.
+
+The battery provides power to the entire system, while the voltage controller ensures stable and regulated power supply to all electronic components.
+
+A webcam is used for visual monitoring so that parents can observe the child remotely. The speaker enables the robot to provide audio output such as alerts or voice messages.
+
+Motor controllers act as an interface between the Raspberry Pi and the motors. They receive control signals from the Raspberry Pi and provide sufficient power to operate the motors.
+
+Finally, the motors enable the robot to move and perform different actions. Through Telegram messaging, caregivers can send commands and receive updates from the robot remotely.
+
+
 ## Features
 
 * Child activity monitoring
