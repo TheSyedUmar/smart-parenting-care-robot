@@ -4,6 +4,10 @@
 
 The Smart Parenting Care Robot is an AI-powered child monitoring and assistance system designed to help parents monitor and ensure the safety of children. The system uses sensors and a processor to track the child's activity and provide alerts when needed.
 
+## System Block Diagram
+
+![Smart Parenting Care Robot](images/block-diagram.png)
+
 ## Features
 
 * Child activity monitoring
