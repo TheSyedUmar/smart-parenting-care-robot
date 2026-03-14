@@ -23,15 +23,15 @@ Finally, the motors enable the robot to move and perform different actions. Thro
 
 ## Project Images
 ### Hardware Setup
-![Hardware Setup](images/hardware-design (1).jpeg)
-![Hardware Setup](images/hardware-design (2).jpg)
-![Hardware Setup](images/hardware-design (3).jpg)
-![Hardware Setup](images/hardware-design( 4).jpg)
-![Hardware Setup](images/hardware-design (5).jpg)
-![Hardware Setup](images/hardware-design (6).jpg)
-![Hardware Setup](images/hardware-design (7).jpg)
-![Hardware Setup](images/hardware-design (8).jpg)
-![Hardware Setup](images/hardware-design (9).jpg)
+![Hardware Setup](images/hardware-design(1).jpeg)
+![Hardware Setup](images/hardware-design(2).jpg)
+![Hardware Setup](images/hardware-design(3).jpg)
+![Hardware Setup](images/hardware-design(4).jpg)
+![Hardware Setup](images/hardware-design(5).jpg)
+![Hardware Setup](images/hardware-design(6).jpg)
+![Hardware Setup](images/hardware-design(7).jpg)
+![Hardware Setup](images/hardware-design(8).jpg)
+![Hardware Setup](images/hardware-design(9).jpg)
 
 ### Working Demo
 ![Working Demo](images/working-demo.jpg)
